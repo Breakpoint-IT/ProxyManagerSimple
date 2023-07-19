@@ -1,0 +1,22 @@
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Release\proxymanagerselco.exe.config
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Release\proxymanagerselco.exe
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Release\proxymanagerselco.pdb
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.csproj.AssemblyReference.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\test.Form1.resources
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.Properties.Resources.resources
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.csproj.GenerateResource.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.csproj.CoreCompileInputs.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.exe
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Release\proxymanagerselco.pdb
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\bin\Release\ProxyManager.exe.config
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\bin\Release\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\bin\Release\ProxyManager.pdb
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\proxymanagerselco.csproj.AssemblyReference.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\proxymanagerselco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\test.proxyManagerMain.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\ProxyManager.Properties.Resources.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\proxymanagerselco.csproj.GenerateResource.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\proxymanagerselco.csproj.CoreCompileInputs.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\1.0.0.1\obj\Release\ProxyManager.pdb

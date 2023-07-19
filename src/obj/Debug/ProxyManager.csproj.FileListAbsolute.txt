@@ -1,0 +1,24 @@
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\bin\Debug\ProxyManager.exe.config
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\bin\Debug\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\bin\Debug\ProxyManager.pdb
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.csproj.AssemblyReference.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\test.proxyManagerMain.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.Properties.Resources.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.csproj.GenerateResource.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.csproj.CoreCompileInputs.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.1.0.0\obj\Debug\ProxyManager.pdb
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\bin\Debug\cfg\ProxyOverride.cfg
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\bin\Debug\cfg\ProxyServer.cfg
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\bin\Debug\ProxyManager.exe.config
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\bin\Debug\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\bin\Debug\ProxyManager.pdb
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.csproj.AssemblyReference.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\test.proxyManagerMain.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.Properties.Resources.resources
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.csproj.GenerateResource.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.csproj.CoreCompileInputs.cache
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.exe
+C:\Users\Marek Tonino\OneDrive - Privatperson\ProxyManager\src\2.2.0.0 - With Config Files\obj\Debug\ProxyManager.pdb

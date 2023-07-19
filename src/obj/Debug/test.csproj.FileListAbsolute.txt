@@ -1,0 +1,11 @@
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\test.Form1.resources
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Debug\proxymanagerselco.exe.config
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Debug\proxymanagerselco.exe
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\bin\Debug\proxymanagerselco.pdb
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\proxymanagerselco.Properties.Resources.resources
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\proxymanagerselco.exe
+C:\Users\Marek Tonino\Documents\xampp\htdocs\SELCO-Repair-Service\Alpha\0.0.1\WindowsApplication\test\obj\Debug\proxymanagerselco.pdb
